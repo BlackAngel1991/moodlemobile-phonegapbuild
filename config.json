@@ -57,7 +57,7 @@
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http:\/\/eightlms.ir",
+    "siteurl": "http://eightlms.ir",
     "sitename": "Eight",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
